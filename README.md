@@ -11,11 +11,14 @@ At Pewlett Hackard, the company is preparing for the impending retirement of the
 The following are four results found during the analysis of the data provided by Pewlett Hackard:
 
 1. A jarring number of employees are becoming eligible to retire in the very near future. Of these employees, the majority of them will be senior members of Pewlett Hackard -- 29,414 senior engineers and 28254 senior staff members -- making nearly 60,000 senior positions vacant. These positions are typically harder to fill because of the experience and training required.
-![Retiring Titles](retiring_titles.png)
+
+    ![Retiring Titles](retiring_titles.png)
 2. Any mentorship program provided will need to be able to accomodate training and/or transitioning employees into the 90,398 vacant positions, as seen as the sum of the above table.
-![Total Retiring Emp](total_retiring_emp.png)
+
+    ![Total Retiring Emp](total_retiring_emp.png)
 3. For employees that would be eligible to become mentors, many of them are also in senior or leadership positions (seen below).
-![Mentorship Eligibilty](mentorship_eligibilty.png)
+
+    ![Mentorship Eligibilty](mentorship_eligibilty.png)
 4. However, if we were to count the total rows in our mentorship_eligibilty table we see that there are only 1549 "eligible mentors," a much smaller total number (even though this is only one birth year's worth of employees) than what we saw with three birth year's worth of employees retiring.
 
     ![Total Eligible Mentors](count_mentor.png)
